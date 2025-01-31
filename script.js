@@ -1,11 +1,10 @@
 // === Todo CRUD Management ===
-{
     // Array to store todos
     let todos = [];
-    }
+    
     
     // DOM Elements
-    const todoForm = document.getElementById('todo-forms');
+    const todoForm = document.getElementById('todo-form');
     const todoInput = document.getElementById('todo-input');
     const todoList = document.getElementById('todo-list');
     
