@@ -73,7 +73,7 @@ button:hover {
 .todo-item button {
     background-color: #dc3545;
     border: none;
-    color: #fff;
+    color: #f4f4f4;
     padding: 5px 10px;
     border-radius: 4px;
     cursor:pointer;
